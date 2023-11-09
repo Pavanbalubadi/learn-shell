@@ -1,2 +1,3 @@
 # learn-shell
-shell scripting t
+shell scripting topics:
+-----------------------
